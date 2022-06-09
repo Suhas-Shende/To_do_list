@@ -1,0 +1,32 @@
+.containerTodos {
+  padding-top: 40px;
+  border: 2px solid Tomato;
+  border-radius: 5px;
+  margin-top: 25px;
+  margin-left: 674px;
+  width: 700px;
+  height: auto;
+
+  padding-bottom: 40x;
+}
+.Todolist {
+  text-align: center;
+}
+.containerAddToDo {
+  border: 2px solid Tomato;
+  border-radius: 5px;
+  margin-top: 25px;
+  margin-left: 674px;
+  padding: 10px 10px 50px 100px;
+  width: 700px;
+  height: auto;
+}
+.containerTodoItem {
+  border: 2px solid Tomato;
+  border-radius: 5px;
+  margin-top: 25px;
+  margin-left: 100px;
+  padding: 10px 10px 50px 100px;
+  width: 500px;
+  height: auto;
+}
